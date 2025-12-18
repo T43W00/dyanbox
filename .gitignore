@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*.so
+.venv/
+.env
+db.sqlite3
+*.log
+.DS_Store
+.idea/
+.vscode/
+nohup.out
+storage/
+src/static/*.whl
+src/static/*.exe
+fake_malware.py
